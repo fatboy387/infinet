@@ -1,1 +1,0 @@
-(new-object Net.WebClient).DownloadString('http://bit.ly/LTPoSh') | iex;Install-LTService -Server https://isimon.omahait.com -LocationID 174
